@@ -1,2 +1,2 @@
 # kovada06.github.io
-personal achievements and contact information
+Personal achievements and contact information
