@@ -1,5 +1,6 @@
 <h1 id="about-me">About Me</h1>
-<p>Adam Kover, born 1999 in the United States of America. Primarily practiced and interested in computer science.</p>
+<p>Born 1999 in the United States of America.</p>
+<p>Primarily practiced and interested in computer science.</p>
 <h1 id="resume">Resume/CV</h1>
 <p>Graduated from South Puget Sound Community College with an Associate in Arts degree.</p>
 <p>Graduated from The Evergreen State College with a Bachelor in Science degree.</p>
