@@ -1,5 +1,5 @@
 <h1 id="about-me">About Me</h1>
-<p>Born 1999 in the United States of America.</p>
+<p>Location: United States of America.</p>
 <p>Primarily practiced and interested in computer science.</p>
 <h1 id="resume">Resume/CV</h1>
 <p>Graduated from South Puget Sound Community College with an Associate in Arts degree.</p>
